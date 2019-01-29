@@ -1,0 +1,13 @@
+Point Buster;25.0%+80,27.0%+90,29.0%+100,31.0%+110,33.0%+120;-;15;1,4,7,10,13;Blast with magical energy to launch {} standing or fallen enemies into the air.,4,5,6,7,8;pointbuster.gif;7;1
+Air Combo;15.0%+50,17.0%+60,19.0%+70,21.0%+80,23.0%+90;Point Buster,1;15;2,3,4,5,6;Hits enemies with electric bolts in mid-air.;aircombo.gif;7;3
+Meteor Fall;25.0+80,27.5%+95,30.0%+110,32.5%+125,35.0%+140;Air Combo,1;15;3,6,9,12,15;While in air, drops a meteor on enemy targets.;meteor.gif;7;5
+Re-Launch;25.0%+60,26.5%+70,28.0%+9+,29.5%+100,31.0%+110;-;10;2,4,6,8,10;Attacks fallen enemies and launches them into the air.;relaunch_mage.gif;3;3
+Blink;-;-;15;10,11,12,13,14;Teleport backwards for a short distance.;blink.gif;3;5
+Fortress;35.0%+80,40.0%+100,45.0%+120,50.0%+140,55.0%+160;-;10;4,7,10,13,16;Turns you into a cannon head and blasts {} enemies.,5,6,7,8,9;cannon.gif;3;7
+Cannon Upgrade;15.0%+40,18.0%+60,21.0%+80,24.0%+100,27.0%+120;Fortress,1;15;5,8,11,14,17;Upgrades Fortress to have more damage and to apply a Serious Bleeding effect.;cannonupgrade.gif;1;9
+Bullet Acceleration;-;Fortress,1;15;6,9,12,15,18;Upgrades Fortress to shoot {}% faster bullets.,20,40,60,80,100;cannonaccera.gif;5;11
+MP Potion Maximization;-;-;15;1,5,9,14,19;Permanently increases all MP recovery effects by {}%.,10,20,30,40,50;mppotionmax.gif;12;1
+Magic Enchantment;-;MP Potion Maximization,1;10;2,6,10,14,18;Permanently increases Magic Attack by {}.,20,40,60,80,100;magicenhance.gif;14;3
+Focus;-;Magic Enchantment,1;15;3,7,11,15,19;Turns your head into a cat's to increase INT by {} and Magic Attack by {}%.,4,8,12,16,20,8,12,16,20,24;concentration.gif;14;5
+Slow Heal;-;MP Potion Maximization,1;15;3,6,9,12,15;Returns a {}% of max HP every interval for 30seconds.,1,2,3,4,5;slowheal.gif;10;5
+Self Heal;10.0%+60,14.0%+80,18.0%+100,22.0%+120,26.0%+140;Slow Heal,1;15;5,8,11,14,17;Converts a portion of MP into HP.;selfheal.gif;10;9
